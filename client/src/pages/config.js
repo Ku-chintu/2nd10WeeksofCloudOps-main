@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://52.23.183.119:84";
+const API_BASE_URL = "http://52.23.183.112:84";
 // const API_BASE_URL = "http://veera.narni.co.in";
 // export default API_BASE_URL;
 // const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || "http://backend";
